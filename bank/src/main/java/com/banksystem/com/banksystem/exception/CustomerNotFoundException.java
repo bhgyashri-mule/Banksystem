@@ -1,0 +1,8 @@
+package com.banksystem.com.banksystem.exception;
+
+public class CustomerNotFoundException extends RuntimeException {
+
+    public CustomerNotFoundException(String message) {
+        super(message);
+    }
+}
