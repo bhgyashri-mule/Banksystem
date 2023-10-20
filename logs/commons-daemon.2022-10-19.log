@@ -1,0 +1,28 @@
+[2022-10-19 18:30:52] [info]  [ 9228] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-10-19 18:30:52] [info]  [ 9228] Installing service 'Tomcat9' name 'Apache Tomcat 9.0 Tomcat9'.
+[2022-10-19 18:30:52] [info]  [ 9228] Service 'Tomcat9' installed.
+[2022-10-19 18:30:52] [info]  [ 9228] Apache Commons Daemon procrun finished.
+[2022-10-19 18:30:53] [info]  [ 5848] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-10-19 18:30:53] [info]  [ 5848] Updating service...
+[2022-10-19 18:30:53] [info]  [ 5848] Updated service 'Tomcat9'.
+[2022-10-19 18:30:53] [info]  [ 5848] Finished updating service 'Tomcat9'.
+[2022-10-19 18:30:53] [info]  [ 5848] Apache Commons Daemon procrun finished.
+[2022-10-19 18:30:53] [info]  [ 5292] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-10-19 18:30:53] [info]  [ 5292] Updating service...
+[2022-10-19 18:30:53] [info]  [ 5292] Updated service 'Tomcat9'.
+[2022-10-19 18:30:53] [info]  [ 5292] Finished updating service 'Tomcat9'.
+[2022-10-19 18:30:53] [info]  [ 5292] Apache Commons Daemon procrun finished.
+[2022-10-19 18:30:53] [info]  [ 9080] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-10-19 18:30:53] [info]  [ 9080] Updating service...
+[2022-10-19 18:30:53] [info]  [ 9080] Updated service 'Tomcat9'.
+[2022-10-19 18:30:53] [info]  [ 9080] Finished updating service 'Tomcat9'.
+[2022-10-19 18:30:53] [info]  [ 9080] Apache Commons Daemon procrun finished.
+[2022-10-19 18:30:53] [info]  [ 6996] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-10-19 18:30:53] [info]  [ 6996] Updating service...
+[2022-10-19 18:30:53] [info]  [ 6996] Updated service 'Tomcat9'.
+[2022-10-19 18:30:53] [info]  [ 6996] Finished updating service 'Tomcat9'.
+[2022-10-19 18:30:53] [info]  [ 6996] Apache Commons Daemon procrun finished.
+[2022-10-19 18:30:58] [info]  [10328] Apache Commons Daemon procrun (1.2.4.0 64-bit) started.
+[2022-10-19 18:30:58] [info]  [10328] Running Service 'Tomcat9'...
+[2022-10-19 18:30:58] [info]  [11064] Starting service...
+[2022-10-19 18:31:00] [info]  [11064] Service started in 1593 milliseconds.
